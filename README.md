@@ -85,7 +85,7 @@ The final **dashboard** includes:
 ## 📬 Contact
 
 Made by **Aishwarya Burde**
-🔗 [LinkedIn](#) | ✉️ [your.email@example.com](mailto:your.email@example.com)
+🔗 www.linkedin.com/in/aishwarya-burde | ✉️ aishwaryaburde2000@gmail.com
 
 ---
 
